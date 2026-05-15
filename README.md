@@ -41,7 +41,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/oiij/nuxt3-starter.git
+git clone https://github.com/oiij/nuxt-starter.git
 
 # 安装依赖
 pnpm install
@@ -75,7 +75,7 @@ pnpm start
 ## 项目结构
 
 ```
-nuxt3-starter/
+nuxt-starter/
 ├── app/
 │   ├── assets/          # 静态资源
 │   ├── components/      # Vue 组件

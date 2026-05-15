@@ -1,12 +1,12 @@
 {
-  "name": "nuxt3-starter",
+  "name": "nuxt-starter",
   "type": "module",
   "version": "0.0.1",
   "private": true,
-  "description": "nuxt3-starter",
+  "description": "nuxt-starter",
   "author": "oiij",
   "license": "MIT",
-  "homepage": "https://github.com/oiij/nuxt3-starter",
+  "homepage": "https://github.com/oiij/nuxt-starter",
   "scripts": {
     "dev": "nuxt dev --host",
     "dev:pwa": "VITE_PLUGIN_PWA=true nuxt dev",
